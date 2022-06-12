@@ -1,0 +1,137 @@
+.navbar-style-1{
+    border-bottom: 3px solid rgb(26, 139, 62);
+}
+.navbar-style-2{
+    border-bottom: 3px solid rgb(239, 156, 32);
+}
+.navbar-style-3{
+    border-bottom: 3px solid rgb(39, 123, 203);
+}
+.navbar-style-4{
+    border-bottom: 3px solid rgb(144, 38, 205);
+}
+.badge-color-1{
+    background-color: rgb(26, 139, 62);
+    color: #fff;
+}
+.badge-color-2{
+    background-color: rgb(239, 156, 32);
+    color: #fff;
+}
+.badge-color-3{
+    background-color: rgb(39, 123, 203);
+    color: #fff;
+}
+.badge-color-4{
+    background-color: rgb(144, 38, 205);
+    color: #fff;
+}
+.hover-color-1:hover{
+    color: rgb(26, 139, 62) !important;
+}
+.hover-color-2:hover{
+    color: rgb(239, 156, 32) !important;
+}
+.hover-color-3:hover{
+    color: rgb(39, 123, 203) !important;
+}
+.hover-color-4:hover{
+    color: rgb(144, 38, 205) !important;
+}
+
+.navbar-nav li{
+    border-right: 0.5px solid #ccc;
+}
+
+.navbar{
+    padding: 0 1rem;
+}
+
+.breadcrumb{
+    background: transparent;
+}
+
+.main-image{
+    height: 400px;
+    background: url(https://preview.colorlib.com/theme/webmag/img/xpost-1.jpg.pagespeed.ic.2GXRfHYjOg.webp) bottom / cover;
+    position: relative;
+}
+
+.title{
+    position: absolute;
+    bottom: 10px;
+    left: 16px;
+}
+
+.img-2{
+    height: 180px;
+    background: url(https://preview.colorlib.com/theme/webmag/img/xpost-4.jpg.pagespeed.ic.5tBCPmCJW-.webp) bottom / cover;
+}
+.img-3{
+    height: 180px;
+    background: url(https://preview.colorlib.com/theme/webmag/img/xpost-6.jpg.pagespeed.ic.XqKLoKE85z.webp) bottom / cover;
+}
+.img-4{
+    height: 180px;
+    background: url(https://preview.colorlib.com/theme/webmag/img/xpost-2.jpg.pagespeed.ic.DOAToGcDYE.webp) bottom / cover;
+}
+.img-5{
+    height: 180px;
+    background: url(https://preview.colorlib.com/theme/webmag/img/xpost-5.jpg.pagespeed.ic.jXTrIrIxiM.webp) bottom / cover;
+}
+.img-6{
+    height: 180px;
+    background: url(https://preview.colorlib.com/theme/webmag/img/xpost-3.jpg.pagespeed.ic.UjtolzGXxD.webp) bottom / cover;
+}
+.img-7{
+    height: 180px;
+    background: url(https://preview.colorlib.com/theme/webmag/img/xpost-1.jpg.pagespeed.ic.2GXRfHYjOg.webp) bottom / cover;
+}
+.img-8{
+    background: url(https://preview.colorlib.com/theme/webmag/img/xpost-3.jpg.pagespeed.ic.UjtolzGXxD.webp) bottom / cover;
+}
+
+.badge-lg{
+    font-size: 1rem;
+    background-color: #212631;
+    border-radius:0;
+}
+
+.icon-color-1{
+    color: #275ccd;
+}
+.icon-color-2{
+    color: #6dd3f4;
+}
+.icon-color-3{
+    color: #fa712c;
+}
+.icon-color-4{
+    color: #eb4d82;
+}
+
+.link{
+    cursor: pointer;
+}
+.h200{
+    height: 200px;
+}
+
+.input-icon{
+    position: relative;
+}
+
+.input-icon i{
+    position: absolute;
+    right: 10px;
+    top: 12px;
+}
+
+.avatar{
+    width: 60px;
+    height: 60px;
+}
+
+
+
+
