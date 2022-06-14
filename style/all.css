@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.btn{
+    border-width: 2px;
+}
+
+.active{
+    color: rgb(247, 163, 9) !important;
+}
+
+.banner-bg{
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+}
+
+.banner-1{
+    background-image: url(../images/banner-1.jpg);
+}
+.banner-2{
+    background-image: url(../images/banner-2.jpg);
+}
+.banner-3{
+    background-image: url(../images/banner-3.jpg);
+}
+ .carousel-caption{
+     background-color: rgba(0, 0, 0, 0.5);
+ }
+
+.banner-title{
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 3rem;
+}
+
+.carousel-caption{
+    bottom: 8rem;
+}
+
+.carousel-indicators [data-bs-target]{
+    width: 20px;
+    height: 20px;
+}
+
+.food{
+    width: 120px;
+    height: 120px;
+}
+
+
+@media (max-width:768px){
+    .h4, h4 {
+        font-size: calc(1.5rem + .3vw);
+    }
+}
+
+.hex-color{
+    color: #00cc99;
+}
+
+.nav-link:hover{
+    color: coral !important;
+}
+
+.input-icon{
+    position: relative;
+}
+
+.input-icon i{
+    position: absolute;
+    left: 8px;
+    top: 12px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+input{
+    text-indent: 1rem;
+}
+
+.form-control{
+    border: 0;
+    border-bottom: 1px solid #ced4da;
+}
+
+.go-top {
+    display: none;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    width: 52px;
+  }
+
+
+
+
+
